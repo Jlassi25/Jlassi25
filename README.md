@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aymen Jlassi</h1>
-<h3 align="center">My name is Aymen, and I am a Fullstack Web Developer based in Tunisia. With my proficiency in both front-end and back-end technologies, I am passionate about creating dynamic, responsive web applications that deliver exceptional user experiences. I stay up-to-date with the latest web development trends and technologies to provide innovative and scalable solutions to clients. My goal is to create high-quality, optimized, and secure web applications that exceed the expectations of my clients and provide the best user experience possible.</h3>
+<h3 align="left">My name is Aymen, and I am a Fullstack Web Developer based in Tunisia. With my proficiency in both front-end and back-end technologies, I am passionate about creating dynamic, responsive web applications that deliver exceptional user experiences. I stay up-to-date with the latest web development trends and technologies to provide innovative and scalable solutions to clients. My goal is to create high-quality, optimized, and secure web applications that exceed the expectations of my clients and provide the best user experience possible.</h3>
 
 - 🔭 I’m currently working on **Project For Library**
 
